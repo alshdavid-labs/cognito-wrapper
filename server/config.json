@@ -1,0 +1,12 @@
+{
+    "UserPoolId": "us-east-2_reX3cMRQG",
+    "ClientId": "7qt12nnksp7oconoe54e83tj0a",
+    "IdentityPoolId": "us-east-2:28748a83-066e-446f-8a5a-bb9e580b1b45",
+    "region": "us-east-2",
+    "accounts": [
+        {
+            "username": "user01",
+            "password": "P@ssword123"
+        }
+    ]
+}
